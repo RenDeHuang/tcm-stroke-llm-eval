@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.bak*
+.ipynb_checkpoints/
+
+# Dataset and derived prediction files are not redistributed here.
+data/*
+!data/README.md
+outputs/
+figures_out/
+*.jsonl

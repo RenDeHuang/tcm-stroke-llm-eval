@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "tcm-stroke-llm-eval: evaluation code for a framework-migration study of LLMs on TCM stroke records"
+message: "If you use this code, please cite the accompanying article."
+type: software
+license: MIT
+authors:
+  - family-names: Wang
+    given-names: Jian
+    affiliation: "Nanjing University of Chinese Medicine"
+  - family-names: Huang
+    given-names: Rende
+    affiliation: "Nanjing University of Chinese Medicine"
+  - family-names: Gao
+    given-names: Feng
+    affiliation: "Nanjing University of Chinese Medicine"
+version: "1.0.0"
+date-released: "2026-10-04"
